@@ -1,4 +1,4 @@
-# Atividade-Aula-2-BRADEMO-
+# -BRADEMO-
 //Para instalar a SKD na sua máquina ou Codespace
 
 sudo apt update
